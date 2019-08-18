@@ -1,6 +1,11 @@
 # SUVAT-Calculator-Graph
-This mini project was coded while I was learning about the SUVAT equations in both my Physics and Mechanics classes. The coding was one in Visual Studio Code on my Macbook Pro, using the python language with the extension MatPlotLib.
-There are three subroutines, the Input, the Calculating, and the Graphing
+This mini project was coded while I was learning about the SUVAT equations in both my Physics and Mechanics classes.
+There are three subroutines, the Input, the Calculating, and the Graphing. I utilized the matplotlib python library to plot the graphs.
+
+## Things learnt
+- matplotlib on Python, graphing and displaying graphs
+- Practiced performing mathematical operations on inputted values
+- reasonable increments for online graphs
 
 ## Input Section
 Asks the user for the horizontal and vertical components, this includes: displacement(m),initial velocity(m/s),final velocity(m/s),acceleration(m/s^2),time(s).
