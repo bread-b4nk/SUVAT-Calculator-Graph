@@ -1,5 +1,5 @@
 # SUVAT-Calculator-Graph
-This mini project was coded while I was learning about the SUVAT equations in both my Physics and Mechanics classes.
+This mini project was coded at the start of Year 12, while I was learning about the SUVAT equations in both my Physics and Mechanics classes.
 There are three subroutines, the Input, the Calculating, and the Graphing. I utilized the matplotlib python library to plot the graphs.
 
 ## Things learnt
